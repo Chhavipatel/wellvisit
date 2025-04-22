@@ -1,0 +1,28 @@
+.button {
+    padding: var(--spacing-md) var(--spacing-lg);
+    border-radius: var(--border-radius-md);
+    font-weight: 500;
+    transition: all 0.2s ease;
+    cursor: pointer;
+    border: none;
+}
+
+.button-primary {
+    background-color: var(--primary);
+    color: white;
+}
+
+.button-secondary {
+    background-color: var(--secondary);
+    color: white;
+}
+
+.button-accent {
+    background-color: var(--accent);
+    color: white;
+}
+
+.button:hover {
+    transform: translateY(-1px);
+    box-shadow: var(--shadow-md);
+}
