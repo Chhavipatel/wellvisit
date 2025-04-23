@@ -1,4 +1,4 @@
-# 🏥 Doctor Appointment Portal
+# 🏥 WellVisit-Doctor Appointment Portal
 
 A full-stack web application that allows users to book doctor appointments online with ease. Built using the MERN (MongoDB, Express.js, React.js, Node.js) stack, this portal streamlines the appointment booking process for both patients and doctors.
 
