@@ -2,6 +2,8 @@
 
 A full-stack web application that allows users to book doctor appointments online with ease. Built using the MERN (MongoDB, Express.js, React.js, Node.js) stack, this portal streamlines the appointment booking process for both patients and doctors.
 
+
+
 ---
 
 ## 🚀 Features
@@ -18,7 +20,7 @@ A full-stack web application that allows users to book doctor appointments onlin
 ## 🛠️ Tech Stack
 
 ### Frontend:
-- React.js (with hooks & context API)
+- React.js (vite)
 - Axios
 - React Router
 - Tailwind CSS / Bootstrap (based on your choice)
@@ -28,9 +30,10 @@ A full-stack web application that allows users to book doctor appointments onlin
 - Express.js
 - MongoDB with Mongoose
 - JSON Web Token (JWT)
-- Nodemailer (for emails)
 
 ---
+## 🌐 Live Demo
 
-## 📂 Project Structure
+You can check out the live version of the Doctor Appointment Portal here:
 
+👉 [Doctor Appointment Portal - Live](https://wellvisit-frontend2.onrender.com)
